@@ -1,5 +1,6 @@
 # SecureVault
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/JPGBMR/secure-vault)
 A Python-based encryption and decryption application built with `Tkinter` and `cryptography`. SecureVault allows users to encrypt and decrypt files using AES, ChaCha20, or RSA encryption methods via an intuitive GUI.
 
 ## Features
@@ -35,3 +36,13 @@ A Python-based encryption and decryption application built with `Tkinter` and `c
 4.- Choose the file to encrypt/decrypt.
 5.- View the results and logs.
 **License - This project is licensed under the MIT License.**
+
+## Getting Started
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+---
+*Part of the [JPGBMR](https://github.com/JPGBMR) open-source portfolio.*
